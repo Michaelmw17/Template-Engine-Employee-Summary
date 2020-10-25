@@ -38,7 +38,8 @@ It is recommended that you follow this workflow:
 
 It is recommended that you start with a directory structure that looks like this:
 
-```lib/           // classes and helper code
+```-
+lib/           // classes and helper code
 output/        // rendered output
 templates/     // HTML template(s)
 test/          // jest tests
@@ -144,4 +145,4 @@ The project  generates a `team.html` page in the `output` directory, that displa
 
 * [Constructor Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)
 
-* [Bootstrap](https://getbootstrap.com/docs/4.0/utilities/spacing)
+* [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
