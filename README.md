@@ -19,8 +19,9 @@ so that I have quick access to emails and GitHub profiles
 
 * Below is an example of what your application may look like.
 
-![Employee Summary 1](./Assets/10-OOP-homework-demo-1.png)
-![Employee Summary 2](./Assets/10-OOP-homework-demo-2.png)
+![Employee Summary 1](./assets/10-OOP-homework-demo-1.png)
+![Employee Summary 2](./assets/10-OOP-homework-demo-2.mp4)
+![Employee Summary 3](./assets/10-OOP-homework-demo-3.mov)
 
 In the `Develop` folder, there is a `package.json`, so make sure to `npm install`.
 
@@ -78,7 +79,7 @@ app.js         // Runs the application
 
 * All tests must pass.
 
-## Classes
+### Classes
 
 The project  has  these classes: `Employee`, `Manager`, `Engineer`, `Intern`. The tests for these classes in the `tests` directory must all pass.
 
@@ -142,7 +143,5 @@ The project  generates a `team.html` page in the `output` directory, that displa
 * [Class Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
 * [Jest Docs](https://jestjs.io/)
-
-* [Constructor Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)
 
 * [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
