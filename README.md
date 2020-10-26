@@ -20,7 +20,7 @@ so that I have quick access to emails and GitHub profiles
 * Below is an example of what your application may look like.
 
 ![Employee Summary 1](./assets/10-OOP-homework-demo-1.png)
-![Employee Summary 2](./assets/10-OOP-homework-demo-2.gif)
+![Employee Summary 2](./assets/10-OOP-homework-demo-2.gif)\
 Or the full video is [here](./assets/10-OOP-homework-demo-3.mov)  
 
 In the `Develop` folder, there is a `package.json`, so make sure to `npm install`.
