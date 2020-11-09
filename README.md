@@ -1,4 +1,9 @@
 # Unit 10 OOP Homework: Template Engine - Employee Summary
+
+![badge](https://img.shields.io/badge/Unlicense-mit-lightgreen.svg)<br />
+
+## Description
+
 A Node CLI that takes in information about employees and generates a HTML webpage. This displays summaries for each employee. Designed with test driven development and OOP in mind. Easy way to keep track of team member details.
 
 Oftentimes, *how* we design our code is just as important as the code itself. In this homework assignment, the challenge was to build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. Since testing is a key piece in making code maintainable, you will also be ensuring that all unit tests pass.
