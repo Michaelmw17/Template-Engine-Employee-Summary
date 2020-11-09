@@ -1,6 +1,6 @@
 # Unit 10 OOP Homework: Template Engine - Employee Summary
 
-![badge](https://img.shields.io/badge/Unlicense-mit-lightgreen.svg)<br />
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)<br />
 
 ## Description
 
